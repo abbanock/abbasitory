@@ -46,7 +46,7 @@ footer {
 
 .btn-zor {
     display: block;
-    max-width: 200px;
+    max-width: 199px;
     margin: 0 auto;
     padding: 8 30px;
     color: var(--bs-white);
